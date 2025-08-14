@@ -41,7 +41,7 @@ memory-game/
 ---
 
 ## 🖼 Screenshot
-*(Add your own screenshot here)*
+![Memory Game Screenshot](screenshot.png)
 
 ---
 
